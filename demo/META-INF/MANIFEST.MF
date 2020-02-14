@@ -1,0 +1,4 @@
+Manifest-Version: 0.1.1
+Implementation-Title: building-java-libraries
+Implementation-Version: 0.1.1
+
